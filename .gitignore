@@ -1,3 +1,5 @@
-db.sqlite3
 /Library/Containers/com.apple.Home/
 /Library/Containers/com.apple.Safari/
+db.sqlite3
+__pycache__/
+*.pyc
